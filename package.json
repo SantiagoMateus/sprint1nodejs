@@ -1,0 +1,24 @@
+{
+  "name": "sprint1nodejs",
+  "version": "1.0.0",
+  "description": "<h2>Execução</h2>\r <ul>\r   <li>Foi-se escolhida a api do TMDB(https://developers.themoviedb.org/3) pois já havia trabalhado com ela em um projeto em PHP (https://github.com/SantiagoMateus/Desafio-Tecnico-Estagio---Jera) e tinha bastante conhecimento sobre.</li>\r   <li>O projeto foi desenvolvido pensando na busca de filmes e notas dos mesmos utilizando os conceitos passados nos cursos da alura. A api funciona pela a url que retorna os dados do filme assim sendo temos 3 funções uma que pega os filmes, outra que mostra os filmes e a ultima mais generica que pesquisa. </li>\r   <li>Para usar o projeto basta abrir o index.html ou acessar o link para o Heroku.</li>",
+  "main": "index.html",
+  "dependencies": {
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoMateus/sprint1nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoMateus/sprint1nodejs/issues"
+  },
+  "homepage": "https://github.com/SantiagoMateus/sprint1nodejs#readme"
+}
